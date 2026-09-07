@@ -1,0 +1,9 @@
+path,emotion,dialogue_id,dataset
+audio/example_anger.wav,anger,dialogue_001,my_dataset
+audio/example_disgust.wav,disgust,dialogue_002,my_dataset
+audio/example_fear.wav,fear,dialogue_003,my_dataset
+audio/example_happy.wav,happy,dialogue_004,my_dataset
+audio/example_neutral.wav,neutral,dialogue_005,my_dataset
+audio/example_sad.wav,sad,dialogue_006,my_dataset
+audio/example_surprise.wav,surprise,dialogue_007,my_dataset
+
