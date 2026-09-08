@@ -1,4 +1,4 @@
-# EmoTrack: PoSA and PoSD
+# Position-Shuffled Augmentation (PoSA) and Position Self-Distillation (PoSD) for Multi-Turn Speech Emotion Tracking
 
 This repository contains the core implementation of **Position-Shuffled
 Augmentation (PoSA)** and **Position Self-Distillation (PoSD)** from *Do Audio
